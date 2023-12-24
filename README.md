@@ -1,0 +1,6 @@
+# MeriSkill_Projects
+Sales Data Analysis: This project involves analyzing a large sales dataset to find out the trends, products, and metrics that affect the business performance. You will use various techniques to manipulate the data and create visualizations to communicate your insights and recommendations.
+
+Diabetes Patients: This project aims to predict whether a patient has diabetes based on some diagnostic measurements. You will use a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases, which contains data from female Pima Indian patients. You will explore the relationship between the predictor variables and the outcome variable, and apply a suitable machine learning model to make predictions.
+
+HR Analytics: This project focuses on exploring the factors that influence employee attrition and satisfaction. You will use a dataset that contains information about the employees’ demographics, job roles, education, overtime, and business travel. You will perform data cleaning and transformation, and plot a correlation map to identify the most relevant variables. You will also create some charts to visualize the distribution and relationship of the variables.
